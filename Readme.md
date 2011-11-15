@@ -17,7 +17,7 @@ Then in your model you can simply do:
 
     $this->lookup(array('field' => 'value'), 'field_name_to_fetch');
 
-.. to fetch the <field_name_to_fetch> for the record where field = 'value' is true.
+.. to fetch the `field_name_to_fetch` for the record where field = 'value' is true.
 
 
 Here are some real world examples:
